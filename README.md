@@ -170,6 +170,16 @@ A multi-role fitness and personal trainer management platform for tracking progr
 
 <div align="center">
 
+♡ Thanks for visiting my little corner of GitHub!
+
+*Made with love, curiosity and a little bit of coffee.*
+
+</div>
+
+---
+
+<div align="center">
+
 *Made with ♡ and a little bit of coffee.*
 
 </div>
