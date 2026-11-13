@@ -43,22 +43,28 @@ I enjoy exploring how technology can solve real-world problems, learning new thi
 *Curiosity drives me. Creativity inspires me. Code brings ideas to life.* ♡
 
 
-## ♡ Tech Stack
 
-**Languages & Development**
+<h2>♡ Tech Stack</h2>
 
-![Java](https://img.shields.io/badge/Java-8B4565?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8B4565?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B4565?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8B4565?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8B4565?style=flat-square&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-8B4565?style=flat-square&logo=kotlin&logoColor=white)
+<h3>Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,kotlin" height="45" alt="Java, Python, JavaScript, Kotlin">
+</p>
 
-**Tools & Technologies**
+<h3>Web Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" height="45" alt="HTML and CSS">
+</p>
 
-![Git](https://img.shields.io/badge/Git-8B4565?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8B4565?style=flat-square&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8B4565?style=flat-square&logo=mysql&logoColor=white)
+<h3>Frameworks & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,android,gradle" height="45" alt="Spring, Android, Gradle">
+</p>
+
+<h3>Tools & Technologies</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,maven,idea,eclipse" height="45" alt="Git, GitHub, MySQL, Maven, IntelliJ and Eclipse">
+</p>
 
 ## ♡ Featured Projects
 
