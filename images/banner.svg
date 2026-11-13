@@ -1,0 +1,77 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#F4C4D4"/>
+      <stop offset="1" stop-color="#E5A4BC"/>
+    </linearGradient>
+    <linearGradient id="wine" x2="1" y2="1">
+      <stop stop-color="#762E4D"/>
+      <stop offset="1" stop-color="#381B2B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+
+  <g fill="#7D4058" opacity=".65">
+    <path d="M100 50l8 25 25 8-25 8-8 25-8-25-25-8 25-8z"/>
+    <path d="M1090 40l6 18 18 6-18 6-6 18-6-18-18-6 18-6z"/>
+    <circle cx="180" cy="220" r="5"/>
+    <circle cx="1030" cy="210" r="5"/>
+  </g>
+
+  <!-- Books -->
+  <g transform="translate(65 175)">
+    <rect y="55" width="210" height="23" rx="4" fill="#54283D"/>
+    <rect x="12" y="28" width="190" height="24" rx="4" fill="#98516D"/>
+    <rect x="2" y="0" width="205" height="24" rx="4" fill="#633149"/>
+    <path d="M25 10h160M25 38h145M25 65h160" stroke="#F5D5DF" stroke-width="2"/>
+  </g>
+
+  <!-- Laptop -->
+  <g transform="translate(965 105)">
+    <rect width="175" height="112" rx="9" fill="#402333"/>
+    <rect x="9" y="9" width="157" height="94" rx="4" fill="#211722"/>
+    <g fill="#F1AFC5" font-family="monospace" font-size="10">
+      <text x="20" y="30">Hello, world!</text>
+      <text x="20" y="48">const ideas = [];</text>
+      <text x="20" y="66">build(ideas);</text>
+      <text x="20" y="84">return success;</text>
+    </g>
+    <path d="M-12 116h199l15 13H-25z" fill="#704056"/>
+  </g>
+
+  <!-- Coffee -->
+  <g transform="translate(870 195)">
+    <rect width="65" height="52" rx="8" fill="#8A4A64"/>
+    <path d="M65 12c35-5 35 38 0 32" stroke="#8A4A64" stroke-width="8" fill="none"/>
+    <path d="M24 12c-12-12 10-22 18-10 8 12-10 24-18 10z" fill="#F8DCE5"/>
+  </g>
+
+  <!-- Main text -->
+  <text x="600" y="112" text-anchor="middle"
+        font-family="Georgia,serif" font-size="52"
+        font-weight="bold" fill="#482236">
+    Anastasia Bousmpoura ♡
+  </text>
+
+  <rect x="350" y="137" width="500" height="3" rx="2" fill="url(#wine)" opacity=".5"/>
+
+  <text x="600" y="180" text-anchor="middle"
+        font-family="Georgia,serif" font-size="26"
+        fill="#633149">
+    Informatics &amp; Telematics Student
+  </text>
+
+  <text x="600" y="220" text-anchor="middle"
+        font-family="Georgia,serif" font-size="21"
+        fill="#713A52">
+    Software Development | AI | Computer Vision
+  </text>
+
+  <path d="M520 250 Q560 275 600 250 Q640 275 680 250"
+        stroke="#8A4560" stroke-width="2" fill="none"/>
+
+  <rect x="2" y="2" width="1196" height="296" rx="22"
+        stroke="#A95D79" stroke-width="3" fill="none"/>
+</svg>
