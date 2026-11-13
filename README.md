@@ -43,6 +43,7 @@ I enjoy exploring how technology can solve real-world problems, learning new thi
 *Curiosity drives me. Creativity inspires me. Code brings ideas to life.* ♡
 
 
+
 <h2>♡ Tech Stack</h2>
 
 <h3>Programming Languages</h3>
@@ -54,10 +55,18 @@ I enjoy exploring how technology can solve real-world problems, learning new thi
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate" height="45">
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Java_Servlets-8B4565?style=flat-square">
+  <img src="https://img.shields.io/badge/JSP-8B4565?style=flat-square">
+  <img src="https://img.shields.io/badge/REST_APIs-8B4565?style=flat-square">
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-8B4565?style=flat-square">
+  <img src="https://img.shields.io/badge/JDBC-8B4565?style=flat-square">
+</p>
 
 <h3>Databases</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="45">
+  <img src="https://img.shields.io/badge/MariaDB-8B4565?style=flat-square">
 </p>
 
 <h3>Tools & Development</h3>
@@ -65,10 +74,16 @@ I enjoy exploring how technology can solve real-world problems, learning new thi
   <img src="https://skillicons.dev/icons?i=git,github,maven,tomcat,idea,vscode" height="45">
 </p>
 
-<h3>Other Technologies</h3>
+<h3>Other Technical Skills</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,linux" height="45">
+  <img src="https://img.shields.io/badge/AJAX-8B4565?style=flat-square">
+  <img src="https://img.shields.io/badge/Fetch_API-8B4565?style=flat-square">
+  <img src="https://img.shields.io/badge/Computer_Networks-8B4565?style=flat-square">
+  <img src="https://img.shields.io/badge/IT_Support-8B4565?style=flat-square">
+  <img src="https://img.shields.io/badge/Image_Annotation-8B4565?style=flat-square">
 </p>
+
+---
 
 ## ♡ Featured Projects
 
