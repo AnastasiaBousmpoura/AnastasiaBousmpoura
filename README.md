@@ -76,7 +76,7 @@ I'm passionate about software development, emerging technologies and exploring h
 - Appointment booking and scheduling
 - Fitness progress and personal goal tracking
 - Trainer availability and client management
-- Weather integration for outdoor training
+- Weather API integration for outdoor training
 
 </td>
 </tr>
@@ -102,10 +102,14 @@ I'm passionate about software development, emerging technologies and exploring h
 <img src="https://img.shields.io/badge/Java_21-8B4565?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-8B4565?style=flat-square&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Security-8B4565?style=flat-square">
+<img src="https://img.shields.io/badge/Spring_Data_JPA-8B4565?style=flat-square">
 <img src="https://img.shields.io/badge/JWT-8B4565?style=flat-square">
 <img src="https://img.shields.io/badge/Hibernate-8B4565?style=flat-square">
 <img src="https://img.shields.io/badge/H2-8B4565?style=flat-square">
 <img src="https://img.shields.io/badge/Thymeleaf-8B4565?style=flat-square">
+<img src="https://img.shields.io/badge/REST_API-8B4565?style=flat-square">
+<img src="https://img.shields.io/badge/Weather_API-8B4565?style=flat-square">
+<img src="https://img.shields.io/badge/OpenAPI-8B4565?style=flat-square">
 
 </td>
 </tr>
@@ -117,7 +121,7 @@ I'm passionate about software development, emerging technologies and exploring h
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/AnastasiaBousmpoura/fit-track-ergasia">
+  <a href="https://github.com/AnastasiaBousmpoura/university-spring-boot-app">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-A65D7A?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </td>
