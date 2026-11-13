@@ -4,8 +4,8 @@
 </div>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bousmpoura-8B4565?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-bousmpoura-451b01319/)
-[![GitHub](https://img.shields.io/badge/GitHub-AnastasiaBousmpoura-8B4565?style=flat-square&logo=github&logoColor=white)](https://github.com/AnastasiaBousmpoura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bousmpoura-8B4565?style=flat-square&logo=linkedin&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-AnastasiaBousmpoura-8B4565?style=flat-square&logo=github&logoColor=white)]
 
 </div>
 
