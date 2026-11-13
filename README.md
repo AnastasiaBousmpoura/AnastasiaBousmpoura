@@ -168,18 +168,6 @@ A multi-role fitness and personal trainer management platform for tracking progr
 
 ---
 
-## ♡ GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnastasiaBousmpoura&show_icons=true&title_color=8B4565&icon_color=C987A5&text_color=8B4565&bg_color=FFF5F8&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaBousmpoura&layout=compact&title_color=8B4565&text_color=8B4565&bg_color=FFF5F8&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Made with ♡ and a little bit of coffee.*
