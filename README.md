@@ -121,7 +121,7 @@ I'm passionate about software development, emerging technologies and exploring h
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/AnastasiaBousmpoura/university-spring-boot-app">
+  <a href="https://github.com/AnastasiaBousmpoura/university-springboot-app">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-A65D7A?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </td>
