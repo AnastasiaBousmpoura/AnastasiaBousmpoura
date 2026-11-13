@@ -41,18 +41,50 @@ I'm passionate about software development, emerging technologies and exploring h
 
 ## ♡ Featured Projects
 
-### ♡ Java Web Life Exchange
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack web application that enables registered users to create discussion topics and exchange messages through an interactive web interface.
+<h3 align="center">01 · Java Web Life Exchange</h3>
+<p align="center"><strong>Full-Stack Web Application</strong></p>
+
+<p align="center">
+  <sub>A web application where registered users can create discussion topics and exchange messages through an interactive platform.</sub>
+</p>
 
 **Key Features**
-- User authentication and session management.
-- Discussion topic creation and retrieval.
-- Message submission and database persistence.
-- Password update functionality.
-- Asynchronous frontend-server communication.
+- User authentication and session management
+- Discussion topic creation and retrieval
+- Message submission and database persistence
+- Password update functionality
+- Asynchronous frontend-server communication
 
-**Technologies**
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">02 · FitTrack</h3>
+<p align="center"><strong>Fitness & Personal Trainer Platform</strong></p>
+
+<p align="center">
+  <sub>A multi-role platform connecting users with personal trainers, supporting appointment scheduling and fitness progress tracking.</sub>
+</p>
+
+**Key Features**
+- Role-based access for Guests, Users and Trainers
+- Trainer discovery by specialization and location
+- Appointment booking and scheduling
+- Fitness progress and personal goal tracking
+- Trainer availability and client management
+- Weather integration for outdoor training
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**Tech Stack**
 
 <img src="https://img.shields.io/badge/Java-8B4565?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Servlets-8B4565?style=flat-square">
@@ -61,27 +93,11 @@ A full-stack web application that enables registered users to create discussion 
 <img src="https://img.shields.io/badge/MariaDB-8B4565?style=flat-square&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/JDBC-8B4565?style=flat-square">
 
-<p>
-<a href="https://github.com/AnastasiaBousmpoura/Java-Web-Life-Exchange">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B4565?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+</td>
 
----
+<td width="50%" valign="top">
 
-### ♡ FitTrack
-
-A multi-role fitness and personal trainer management platform for tracking progress, scheduling appointments and managing trainer availability.
-
-**Key Features**
-- Role-based access for Guests, Users and Trainers.
-- Trainer discovery and availability management.
-- Appointment booking and scheduling.
-- Fitness progress and personal goal tracking.
-- Trainer notes and appointment management.
-- Weather integration for outdoor training.
-
-**Technologies**
+**Tech Stack**
 
 <img src="https://img.shields.io/badge/Java_21-8B4565?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-8B4565?style=flat-square&logo=springboot&logoColor=white">
@@ -91,11 +107,22 @@ A multi-role fitness and personal trainer management platform for tracking progr
 <img src="https://img.shields.io/badge/H2-8B4565?style=flat-square">
 <img src="https://img.shields.io/badge/Thymeleaf-8B4565?style=flat-square">
 
-<p>
-<a href="https://github.com/AnastasiaBousmpoura/fit-track-ergasia">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B4565?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="https://github.com/AnastasiaBousmpoura/Java-Web-Life-Exchange">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-A65D7A?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/AnastasiaBousmpoura/fit-track-ergasia">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-A65D7A?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
