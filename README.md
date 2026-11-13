@@ -3,11 +3,6 @@
   <img src="images/banner.svg" width="100%" alt="Anastasia Bousmpoura">
 </div>
 
-# ♡ Anastasia Bousmpoura
-
-### Informatics & Telematics Student
-
-*Turning ideas into code, one project at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bousmpoura-8B4565?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-bousmpoura-451b01319/)
 [![GitHub](https://img.shields.io/badge/GitHub-AnastasiaBousmpoura-8B4565?style=flat-square&logo=github&logoColor=white)](https://github.com/AnastasiaBousmpoura)
