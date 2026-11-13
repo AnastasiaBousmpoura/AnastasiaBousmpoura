@@ -12,14 +12,36 @@
 
 ---
 
+<table>
+<tr>
+<td width="65%" valign="top">
+  
 ## ♡ About Me
 
 Hello! I'm Anastasia, an Informatics & Telematics student at Harokopio University of Athens.
 
-- 🎓 Currently studying Informatics & Telematics.
-- 💻 Working in IT Systems Support.
-- 🧠 Interested in Artificial Intelligence and Computer Vision.
-- ✨ Always curious to learn and build something new.
+- 🎓 Informatics & Telematics
+- 💻 IT Systems Support Assistant
+- 🧠 Neural Networks & Computer Vision
+- ✨ Passionate about technology and software development.
+
+</td>
+<td width="35%" align="center">
+
+<img src="images/anastasia-avatar.gif" width="220" alt="Anastasia anime avatar">
+
+</td>
+</tr>
+</table>
+
+---
+
+## ♡ Beyond the Code
+
+I enjoy exploring how technology can solve real-world problems, learning new things and continuously challenging myself.
+
+*Curiosity drives me. Creativity inspires me. Code brings ideas to life.* ♡
+
 
 ## ♡ Tech Stack
 
