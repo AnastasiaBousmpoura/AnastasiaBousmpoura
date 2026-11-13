@@ -1,5 +1,7 @@
 
 <div align="center">
+  <img src="images/banner.svg" width="100%" alt="Anastasia Bousmpoura">
+</div>
 
 # ♡ Anastasia Bousmpoura
 
