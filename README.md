@@ -4,13 +4,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anastasia-bousmpoura-451b01319/">
-    <img src="https://img.shields.io/badge/LinkedIn-8B4565?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://github.com/AnastasiaBousmpoura">
-    <img src="https://img.shields.io/badge/GitHub-8B4565?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B4565?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-bousmpoura-451b01319/)
+[![GitHub](https://img.shields.io/badge/GitHub-8B4565?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnastasiaBousmpoura)
+
 </div>
 
 ---
