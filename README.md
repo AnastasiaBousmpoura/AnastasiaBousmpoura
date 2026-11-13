@@ -43,27 +43,31 @@ I enjoy exploring how technology can solve real-world problems, learning new thi
 *Curiosity drives me. Creativity inspires me. Code brings ideas to life.* ♡
 
 
-
 <h2>♡ Tech Stack</h2>
 
 <h3>Programming Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,kotlin" height="45" alt="Java, Python, JavaScript, Kotlin">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="45">
 </p>
 
-<h3>Web Development</h3>
+<h3>Backend & Frameworks</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" height="45" alt="HTML and CSS">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" height="45">
 </p>
 
-<h3>Frameworks & Platforms</h3>
+<h3>Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,android,gradle" height="45" alt="Spring, Android, Gradle">
+  <img src="https://skillicons.dev/icons?i=mysql" height="45">
 </p>
 
-<h3>Tools & Technologies</h3>
+<h3>Tools & Development</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,maven,idea,eclipse" height="45" alt="Git, GitHub, MySQL, Maven, IntelliJ and Eclipse">
+  <img src="https://skillicons.dev/icons?i=git,github,maven,tomcat,idea,vscode" height="45">
+</p>
+
+<h3>Other Technologies</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,linux" height="45">
 </p>
 
 ## ♡ Featured Projects
